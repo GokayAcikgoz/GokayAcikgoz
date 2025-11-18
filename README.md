@@ -38,19 +38,22 @@ I also work with industrial communication protocols and IoT communication as an 
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50">
 </div>
 
-### 📡 Communication & Industrial Protocols (Ek Uzmanlık)
+### 📡 Communication & Industrial Protocols
 <div align="center">
 
   <!-- RS485 / Modbus -->
-  <img src="https://img.icons8.com/?size=100&id=30888&format=png&color=000000" height="48" title="RS485 / Modbus">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/siemens.svg"
+       height="40" title="RS485 / Modbus" />
 
-  <!-- NB-IoT (Modern Cellular Icon) -->
-  <img src="https://img.icons8.com/?size=100&id=23261&format=png&color=000000" height="48" title="NB-IoT / Cellular IoT">
+  <!-- NB-IoT (closest clean cellular modem icon) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qualcomm.svg"
+       height="40" title="NB-IoT / Cellular IoT" />
 
   <!-- General IoT -->
-  <img src="https://img.icons8.com/?size=100&id=R3YxX8CcDlD4&format=png&color=000000" height="48" title="IoT Communication">
-
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/azureiotcentral.svg"
+       height="40" title="IoT Communication" />
 </div>
+
 
 ### 🗄️ Databases & Tools
 <div align="center">
