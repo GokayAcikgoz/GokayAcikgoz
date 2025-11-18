@@ -16,7 +16,8 @@
 I'm a software developer from Turkey focused on building clean, scalable backend systems and modern web applications.  
 My main expertise is **.NET backend development**, **API design**, **Node.js services**, and **frontend UI building** with Vue.js.
 
-I also work with industrial communication protocols and IoT communication as an additional skillset (NB-IoT, RS485/Modbus).
+I also work with industrial communication protocols and IoT communication as an additional skillset  
+(**NB-IoT**, **RS485/Modbus**, **TCP/UDP communication**).
 
 ---
 
@@ -40,20 +41,11 @@ I also work with industrial communication protocols and IoT communication as an 
 
 ### 📡 Communication & Industrial Protocols
 <div align="center">
-
-  <!-- RS485 / Modbus -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/siemens.svg"
-       height="40" title="RS485 / Modbus" />
-
-  <!-- NB-IoT (closest clean cellular modem icon) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qualcomm.svg"
-       height="40" title="NB-IoT / Cellular IoT" />
-
-  <!-- General IoT -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/azureiotcentral.svg"
-       height="40" title="IoT Communication" />
+  <strong>• RS485 / Modbus</strong><br>
+  <strong>• NB-IoT Communication</strong><br>
+  <strong>• TCP / UDP Data Streaming</strong><br>
+  <strong>• Device → Server Data Transport</strong>
 </div>
-
 
 ### 🗄️ Databases & Tools
 <div align="center">
