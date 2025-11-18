@@ -5,17 +5,22 @@
 
 <!-- Title -->
 <h2 align="center">Hi, I'm <strong>Gökay Açıkgöz</strong> 👋</h2>
-<h4 align="center">Software Developer | .NET • Vue.js • Node.js • Embedded • IoT</h4>
+<h4 align="center">Software Developer | .NET • Vue.js • Node.js • IoT Communication</h4>
 
 <br/>
 
 ---
 
 ## 🚀 About Me  
-I'm a passionate software developer from Turkey who loves building scalable backend systems, modern web interfaces and IoT/embedded solutions.  
-I work with technologies spanning **.NET, Vue.js, Node.js, NB-IoT, Modbus/RS485, Embedded Linux (PiEdge)** and cloud platforms.
+I'm a software developer from Turkey focused on building clean, scalable and maintainable backend systems, modern frontend interfaces and IoT communication services.
 
-I enjoy shipping clean, maintainable code and solving real-world engineering problems with hands-on approaches.
+I work on things like  
+• industrial communication protocols (Modbus / RS485)  
+• NB-IoT TCP/UDP communication  
+• backend APIs and real-time data services  
+• web dashboards and UI components  
+
+My goal is always to create reliable systems that communicate fast, fail predictably and stay easy to maintain.
 
 ---
 
@@ -37,13 +42,13 @@ I enjoy shipping clean, maintainable code and solving real-world engineering pro
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50">
 </div>
 
-### 🔌 IoT • Embedded • Other  
+### 🔌 IoT • Communication • Other  
 <div align="center">
+  <img src="https://img.icons8.com/ios-filled/100/000000/serial-tasks.png" height="50" title="RS485 / Modbus">
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/100/000000/external-iot-internet-of-things-flatart-icons-outline-flatarticons.png" height="50" title="IoT Communication / NB-IoT">
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50">
   <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50">
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50">
-  <img src="https://img.icons8.com/ios-filled/100/000000/serial-tasks.png" height="50" title="RS485 / MBUS / Modbus">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/100/000000/external-iot-internet-of-things-flatart-icons-outline-flatarticons.png" height="50" title="IoT / NB-IoT / Embedded">
 </div>
 
 ---
@@ -51,7 +56,6 @@ I enjoy shipping clean, maintainable code and solving real-world engineering pro
 ## 🌐 Connect With Me  
 <div align="center">
 
-  <!-- Personal Website -->
   <a href="https://gokayacikgoz.com" target="_blank">
     <img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -79,11 +83,3 @@ I enjoy shipping clean, maintainable code and solving real-world engineering pro
 
 ---
 
-## 🐍 Contribution Snake  
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
